@@ -6,7 +6,6 @@
 - 📚 java Script , Node JS()<br/>
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcoscosta&show_icons=true&theme=dracula)
-[![marcos Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcoscosta&repo=github-readme-stats)](https://github.com/mrcoscosta)
 
 
 ## Tecnologias que eu uso no meu dia
