@@ -1,9 +1,9 @@
 
-### Olá! Eu sou o Marcos costa 🖐️
+### Olá! Tudo bem ? Me chamo Marcos , Muito prazer e pode ficar avontade! 🖐️
 
-- 📚 Estou Apredendo programaçao()<br/>
-- 📚 Futuro back-end()<br/>
-- 📚 java Script , Node JS()<br/>
+- 📚 iniciante na area da tecnoligia ,<br/>
+- 📚 Futuro Dev Back-end <br/>
+- 📚 java script linguagem que gosto.<br/>
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcoscosta&show_icons=true&theme=dracula)
 
